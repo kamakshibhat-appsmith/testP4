@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 450,
+          "bottomRow": 380,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -29,12 +29,12 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1__$QueryModule1_1$_QueryModule1",
-              "name": "_$QueryModule1_1$_QueryModule1",
+              "id": "Page1__$Query4$_Query4Module",
+              "name": "_$Query4$_Query4Module",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "QueryModule1_1.inputs.input1"
+                "Query4.inputs.input1"
               ],
               "timeoutInMillisecond": 10000
             }
